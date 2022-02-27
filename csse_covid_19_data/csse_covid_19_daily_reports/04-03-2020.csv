@@ -1449,7 +1449,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081,Monroe,Wisconsin,US,2020-04-03 22:46:37,43.94641218,-90.61881899999999,3,0,0,3,"Monroe, Wisconsin, US"
 48337,Montague,Texas,US,2020-04-03 22:46:37,33.67521893,-97.72500958,1,0,0,1,"Montague, Texas, US"
 26117,Montcalm,Michigan,US,2020-04-03 22:46:37,43.31082541,-85.15252824,12,0,0,12,"Montcalm, Michigan, US"
-6053,Monterey,California,US,2020-04-03 22:46:37,36.21862405,-121.24133970000001,60,2,0,56,"Monterey, California, US"
+6053,Monterey,California,US,2020-04-03 22:46:37,36.21862405,-121.24133970000001,59,2,0,56,"Monterey, California, US"
 8083,Montezuma,Colorado,US,2020-04-03 22:46:37,37.33859579,-108.59588570000001,3,1,0,2,"Montezuma, Colorado, US"
 1101,Montgomery,Alabama,US,2020-04-03 22:46:37,32.2206831,-86.20969272,58,1,0,57,"Montgomery, Alabama, US"
 17135,Montgomery,Illinois,US,2020-04-03 22:46:37,39.23198845,-89.47809254,2,0,0,2,"Montgomery, Illinois, US"
@@ -1851,7 +1851,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17167,Sangamon,Illinois,US,2020-04-03 22:46:37,39.75836914,-89.65872023,20,2,0,18,"Sangamon, Illinois, US"
 26151,Sanilac,Michigan,US,2020-04-03 22:46:37,43.42406072,-82.82055898,10,1,0,9,"Sanilac, Michigan, US"
 6083,Santa Barbara,California,US,2020-04-03 22:46:37,34.65329488,-120.0188492,155,1,0,153,"Santa Barbara, California, US"
-6085,Santa Clara,California,US,2020-04-03 22:46:37,37.23104908,-121.6970462,982,39,0,942,"Santa Clara, California, US"
+6085,Santa Clara,California,US,2020-04-03 22:46:37,37.23104908,-121.6970462,983,39,0,942,"Santa Clara, California, US"
 4023,Santa Cruz,Arizona,US,2020-04-03 22:46:37,31.52508998,-110.8479088,3,0,0,3,"Santa Cruz, Arizona, US"
 6087,Santa Cruz,California,US,2020-04-03 22:46:37,37.05580291,-122.0066524,52,1,0,51,"Santa Cruz, California, US"
 35049,Santa Fe,New Mexico,US,2020-04-03 22:46:37,35.50708973,-105.9774716,48,0,0,48,"Santa Fe, New Mexico, US"
@@ -2369,7 +2369,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Columbia,Canada,2020-04-03 22:52:30,53.7267,-127.6476,1174,31,0,1143,"British Columbia, Canada"
 ,,British Virgin Islands,United Kingdom,2020-04-03 22:46:20,18.4207,-64.64,3,0,0,3,"British Virgin Islands, United Kingdom"
 ,,Cayman Islands,United Kingdom,2020-04-03 22:46:20,19.3133,-81.2546,28,1,0,27,"Cayman Islands, United Kingdom"
-,,Channel Islands,United Kingdom,2020-04-03 22:46:20,49.3723,-2.3644,232,4,13,215,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,2020-04-03 22:46:20,49.3723,-2.3644,0,0,13,215,"Channel Islands, United Kingdom"
 ,,Chongqing,China,2020-03-29 00:14:12,30.0572,107.874,579,6,570,3,"Chongqing, China"
 ,,Curacao,Netherlands,2020-04-03 22:46:20,12.1696,-68.99,11,1,3,7,"Curacao, Netherlands"
 ,,Diamond Princess,Canada,2020-04-03 22:52:30,,,0,1,0,0,"Diamond Princess, Canada"
@@ -2648,3 +2648,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Putrajaya,Malaysia,2020-04-03 22:46:37,2.9264,101.6964,35,1,7,27,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,2020-04-03 22:46:37,,,0,0,0,0,"Unknown, Malaysia"
 ,,,Tonga,2020-04-03 22:46:37,-21.179,-175.1982,0,0,0,0,Tonga
+,,,Winter Olympics 2022,2020-04-03 22:46:37,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
+,,,Antarctica,2020-04-03 22:46:37,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,2020-04-03 22:46:37,49.2138,-2.1358,77,2,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,2020-04-03 22:46:37,49.448196,-2.58949,101,2,0,0,"Guernsey, United Kingdom"

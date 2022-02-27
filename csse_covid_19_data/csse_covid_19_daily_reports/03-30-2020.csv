@@ -3188,7 +3188,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Columbia,Canada,3/30/20 22:58,53.7267,-127.6476,970,19,0,951,"British Columbia, Canada"
 ,,British Virgin Islands,United Kingdom,3/30/20 22:52,18.4207,-64.64,2,0,0,2,"British Virgin Islands, United Kingdom"
 ,,Cayman Islands,United Kingdom,3/30/20 22:52,19.3133,-81.2546,12,1,0,11,"Cayman Islands, United Kingdom"
-,,Channel Islands,United Kingdom,3/30/20 22:52,49.3723,-2.3644,141,2,0,139,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,3/30/20 22:52,49.3723,-2.3644,0,0,0,139,"Channel Islands, United Kingdom"
 ,,Chongqing,China,3/29/20 0:14,30.0572,107.874,579,6,570,3,"Chongqing, China"
 ,,Curacao,Netherlands,3/30/20 22:52,12.1696,-68.99,11,1,2,8,"Curacao, Netherlands"
 ,,Diamond Princess,Canada,3/30/20 22:58,0.0,0.0,0,1,0,0,"Diamond Princess, Canada"
@@ -3246,7 +3246,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Reunion,France,3/30/20 22:52,-21.1151,55.5364,224,0,1,223,"Reunion, France"
 ,,Saint Barthelemy,France,3/30/20 22:52,17.9,-62.8333,5,0,1,4,"Saint Barthelemy, France"
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,3/30/20 22:52,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
-,,Saskatchewan,Canada,3/30/20 22:58,52.9399,-106.4509,156,2,0,154,"Saskatchewan, Canada"
+,,Saskatchewan,Canada,3/30/20 22:58,52.9399,-106.4509,175,2,0,154,"Saskatchewan, Canada"
 ,,Shaanxi,China,3/26/20 2:14,35.1917,108.8701,253,3,242,8,"Shaanxi, China"
 ,,Shandong,China,3/30/20 0:22,36.3427,118.1498,773,7,753,13,"Shandong, China"
 ,,Shanghai,China,3/30/20 5:05,31.202,121.4491,498,5,338,155,"Shanghai, China"
@@ -3463,3 +3463,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Putrajaya,Malaysia,3/30/20 22:52,2.9264,101.6964,25,1,5,19,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,3/30/20 22:52,,,0,0,0,0,"Unknown, Malaysia"
 ,,,Tonga,3/30/20 22:52,-21.179,-175.1982,0,0,0,0,Tonga
+,,,Winter Olympics 2022,3/30/20 22:52,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
+,,,Antarctica,3/30/20 22:52,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,3/30/20 22:52,49.2138,-2.1358,59,2,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,3/30/20 22:52,49.448196,-2.58949,52,1,0,0,"Guernsey, United Kingdom"

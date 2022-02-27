@@ -1488,7 +1488,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081,Monroe,Wisconsin,US,4/4/20 23:34,43.94641218,-90.618819,3,0,0,3,"Monroe, Wisconsin, US"
 48337,Montague,Texas,US,4/4/20 23:34,33.67521893,-97.72500958,1,0,0,1,"Montague, Texas, US"
 26117,Montcalm,Michigan,US,4/4/20 23:34,43.31082541,-85.15252824,13,0,0,13,"Montcalm, Michigan, US"
-6053,Monterey,California,US,4/4/20 23:34,36.21862405,-121.2413397,63,2,0,59,"Monterey, California, US"
+6053,Monterey,California,US,4/4/20 23:34,36.21862405,-121.2413397,62,2,0,59,"Monterey, California, US"
 8083,Montezuma,Colorado,US,4/4/20 23:34,37.33859579,-108.5958857,3,1,0,2,"Montezuma, Colorado, US"
 1101,Montgomery,Alabama,US,4/4/20 23:34,32.2206831,-86.20969272,63,1,0,62,"Montgomery, Alabama, US"
 17135,Montgomery,Illinois,US,4/4/20 23:34,39.23198845,-89.47809254,2,0,0,2,"Montgomery, Illinois, US"
@@ -1897,7 +1897,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 17167,Sangamon,Illinois,US,4/4/20 23:34,39.75836914,-89.65872023,25,2,0,23,"Sangamon, Illinois, US"
 26151,Sanilac,Michigan,US,4/4/20 23:34,43.42406072,-82.82055898,13,1,0,12,"Sanilac, Michigan, US"
 6083,Santa Barbara,California,US,4/4/20 23:34,34.65329488,-120.0188492,168,1,0,166,"Santa Barbara, California, US"
-6085,Santa Clara,California,US,4/4/20 23:34,37.23104908,-121.6970462,1044,39,0,1004,"Santa Clara, California, US"
+6085,Santa Clara,California,US,4/4/20 23:34,37.23104908,-121.6970462,1045,39,0,1004,"Santa Clara, California, US"
 4023,Santa Cruz,Arizona,US,4/4/20 23:34,31.52508998,-110.8479088,4,0,0,4,"Santa Cruz, Arizona, US"
 6087,Santa Cruz,California,US,4/4/20 23:34,37.05580291,-122.0066524,56,1,0,55,"Santa Cruz, California, US"
 35049,Santa Fe,New Mexico,US,4/4/20 23:34,35.50708973,-105.9774716,52,0,0,52,"Santa Fe, New Mexico, US"
@@ -2422,7 +2422,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,British Columbia,Canada,4/4/20 23:40,53.7267,-127.6476,1203,38,0,1165,"British Columbia, Canada"
 ,,British Virgin Islands,United Kingdom,4/4/20 23:34,18.4207,-64.64,3,0,0,3,"British Virgin Islands, United Kingdom"
 ,,Cayman Islands,United Kingdom,4/4/20 23:34,19.3133,-81.2546,35,1,1,33,"Cayman Islands, United Kingdom"
-,,Channel Islands,United Kingdom,4/4/20 23:34,49.3723,-2.3644,262,5,13,244,"Channel Islands, United Kingdom"
+,,Channel Islands,United Kingdom,4/4/20 23:34,49.3723,-2.3644,0,0,13,244,"Channel Islands, United Kingdom"
 ,,Chongqing,China,3/29/20 0:14,30.0572,107.874,579,6,570,3,"Chongqing, China"
 ,,Curacao,Netherlands,4/4/20 23:34,12.1696,-68.99,11,1,5,5,"Curacao, Netherlands"
 ,,Diamond Princess,Canada,4/4/20 23:40,,,0,1,0,0,"Diamond Princess, Canada"
@@ -2481,7 +2481,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Reunion,France,4/4/20 23:34,-21.1151,55.5364,334,0,40,294,"Reunion, France"
 ,,Saint Barthelemy,France,4/4/20 23:34,17.9,-62.8333,6,0,1,5,"Saint Barthelemy, France"
 ,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,4/4/20 23:34,-7.9467,-14.3559,0,0,0,0,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom"
-,,Saskatchewan,Canada,4/4/20 23:40,52.9399,-106.4509,220,3,0,217,"Saskatchewan, Canada"
+,,Saskatchewan,Canada,4/4/20 23:40,52.9399,-106.4509,231,3,0,217,"Saskatchewan, Canada"
 ,,Shaanxi,China,4/4/20 1:50,35.1917,108.8701,256,3,245,8,"Shaanxi, China"
 ,,Shandong,China,4/4/20 0:34,36.3427,118.1498,778,7,755,16,"Shandong, China"
 ,,Shanghai,China,4/4/20 8:37,31.202,121.4491,529,6,356,167,"Shanghai, China"
@@ -2702,3 +2702,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,W.P. Putrajaya,Malaysia,4/4/20 23:34,2.9264,101.6964,36,1,9,26,"W.P. Putrajaya, Malaysia"
 ,,Unknown,Malaysia,4/4/20 23:34,,,0,0,0,0,"Unknown, Malaysia"
 ,,,Tonga,4/4/20 23:34,-21.179,-175.1982,0,0,0,0,Tonga
+,,,Winter Olympics 2022,4/4/20 23:34,39.9042,116.4074,0,0,0,0,Winter Olympics 2022
+,,,Antarctica,4/4/20 23:34,-71.9499,23.347,0,0,0,0,Antarctica
+,,Jersey,United Kingdom,4/4/20 23:34,49.2138,-2.1358,114,2,0,0,"Jersey, United Kingdom"
+,,Guernsey,United Kingdom,4/4/20 23:34,49.448196,-2.58949,115,3,0,0,"Guernsey, United Kingdom"
