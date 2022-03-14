@@ -26,7 +26,7 @@ This list includes a complete list of all sources ever used in the data set, sin
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
   - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
-  - DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia
+  - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
   - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
   - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
   - WorldoMeters: https://www.worldometers.info/coronavirus/  
@@ -187,6 +187,10 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Newfoundland and Labrador: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
     - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
     - Government of Ontario: https://covid-19.ontario.ca/data
+      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
+      - Toronto Public Health: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
+      - Region of Peel: https://peelregion.ca/coronavirus/case-status/ 
+      - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
     - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
     - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
     - Government of Yukon: https://yukon.ca/en/case-counts-covid-19
@@ -222,7 +226,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Guatemala:
     - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
   - Hong Kong:
-    - The Government of The Hong Kong Special Administrative Region: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
+    - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
   - Hungary:
     - Government of Hungary: https://koronavirus.gov.hu/
   - Iceland:
